@@ -5,7 +5,7 @@ Token MultiSender is a decentralized application that allows users to send token
 Built with React.js and styled with Tailwind CSS, this applicationn allow user to send tokens to multiple addresses in a single transaction, saving time and reducing gas fees.
 
 ## Live Demo
-[https://token-multisender-metaschool.vercel.app/](https://token-multisender-metaschool.vercel.app/)
+[https://vercel.com/therock-anis-projects/batch-transfer-dapp-sj37](https://vercel.com/therock-anis-projects/batch-transfer-dapp-sj37)
 
 ## Features
 
@@ -33,7 +33,7 @@ Built with React.js and styled with Tailwind CSS, this applicationn allow user t
 ## Installation Steps
 1. Clone the repository:
     ```bash
-    git clone https://github.com/0xmetaschool/token-multisender.git
+    git clone https://github.com/rocknwa/Batch-Transfer-Dapp.git
     ```
 2. Install Dependencies: Navigate to the project directory and install the necessary dependencies:
     ```bash
@@ -82,10 +82,10 @@ Contributions are welcome! Here's how you can help:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/0xmetaschool/token-multisender/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/rocknwa/Batch-Transfer-Dapp/blob/main/LICENSE) file for details.
 
 
 ## Contact
 
-For any questions or support, open an issue in the [GitHub repository](https://github.com/0xmetaschool/token-multisender/issues).
+For any questions or support, open an issue in the [GitHub repository](https://github.com/rocknwa/Batch-Transfer-Dapp/issues).
 
