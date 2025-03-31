@@ -37,7 +37,7 @@ Built with React.js and styled with Tailwind CSS, this applicationn allow user t
     ```
 2. Install Dependencies: Navigate to the project directory and install the necessary dependencies:
     ```bash
-    cd token-multisender
+    cd Batch-Transfer-Dapp
     npm install --y
     ```
     
