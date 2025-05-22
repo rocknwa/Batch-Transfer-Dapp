@@ -70,22 +70,5 @@ Open your browser and navigate to http://localhost:5173
 
 
 
-## Contributing
-
-Contributions are welcome! Here's how you can help: 
-
-1. Fork the repository.
-2. Create a new branch for your feature (`git checkout -b feature_name`).
-3. Commit your changes (`git commit -m "Add feature_name"`).
-4. Push the changes to your fork (`git push origin feature_name`).
-5. Open a pull request to the main repository.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/rocknwa/Batch-Transfer-Dapp/blob/main/LICENSE) file for details.
-
-
-## Contact
-
-For any questions or support, open an issue in the [GitHub repository](https://github.com/rocknwa/Batch-Transfer-Dapp/issues).
+ 
 
