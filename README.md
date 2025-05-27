@@ -5,7 +5,7 @@ Token MultiSender is a decentralized application that allows users to send token
 Built with React.js and styled with Tailwind CSS, this applicationn allow user to send tokens to multiple addresses in a single transaction, saving time and reducing gas fees.
 
 ## Live Demo
-[https://vercel.com/therock-anis-projects/batch-transfer-dapp-sj37](https://vercel.com/therock-anis-projects/batch-transfer-dapp-sj37)
+ [https://batch-transfer-dapp-sj37.vercel.app/](https://batch-transfer-dapp-sj37.vercel.app/)
 
 ## Features
 
